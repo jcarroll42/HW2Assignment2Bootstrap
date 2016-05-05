@@ -1,0 +1,2 @@
+# HW2Assignment2Bootstrap
+Bootstrapped portfolio
