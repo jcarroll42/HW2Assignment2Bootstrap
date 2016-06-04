@@ -1,0 +1,16 @@
+form, input{
+	margin: 10px;
+}
+
+button{
+	margin:5px;
+}
+
+p{
+	margin-bottom:4px;
+	margin-top:10px;
+}
+
+div{
+	margin-bottom:10px;
+}
